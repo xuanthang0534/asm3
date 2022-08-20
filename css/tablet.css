@@ -1,0 +1,31 @@
+@media screen and (min-width: 576px) and (max-width: 992px) {
+  /* Xây dựng Navbar */
+  .name {
+    display: none;
+  }
+  .job {
+    display: none;
+  }
+  #nav-bar img {
+    display: none;
+  }
+  .header_navbar-item {
+    float: left;
+    line-height: 100px;
+    padding: 5px 30px;
+  }
+
+  /* Xây dựng Thông tin cá nhân */
+  /* Xây dựng phần Thông tin nghề nghiệp */
+  /* Xây dựng phần Dự án */
+  .height100 {
+    height: 100%;
+  }
+
+  /* Xây dựng phần Chứng chỉ - Giải thưởng */
+  #certificate img {
+    width: 250px;
+    height: auto;
+    margin: 0px 10px;
+  }
+}

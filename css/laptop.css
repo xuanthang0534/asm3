@@ -1,0 +1,15 @@
+@media screen and (min-width: 992px) {
+  /* Xây dựng Navbar */
+  /* Xây dựng Thông tin cá nhân */
+  /* Xây dựng phần Thông tin nghề nghiệp */
+  /* Xây dựng phần Dự án */
+  .height100 {
+    height: 100%;
+  }
+  /* Xây dựng phần Chứng chỉ - Giải thưởng */
+  #certificate img {
+    width: 250px;
+    height: auto;
+    margin: 0px 10px;
+  }
+}

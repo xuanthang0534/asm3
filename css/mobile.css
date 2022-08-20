@@ -1,0 +1,54 @@
+@media screen and (max-width: 576px) {
+  /* Xây dựng banner  */
+
+  /* Xây dựng Navbar */
+  .header_navbar-item-infor {
+    display: none;
+  }
+  #nav-bar img {
+    display: none;
+  }
+  #nav-bar {
+    background-color: white;
+    height: 150px;
+  }
+  .navbar {
+    float: left;
+  }
+  .header_navbar-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: flex-start;
+  }
+  .header_navbar-item {
+    border-right: none;
+    border-left: none;
+    height: auto;
+    line-height: 10px;
+    border: none;
+    margin-bottom: 10px;
+  }
+
+  /* Xây dựng Thông tin cá nhân */
+  /* Xây dựng phần Thông tin nghề nghiệp */
+  /* Xây dựng phần Dự án */
+  .height100 {
+    height: 100%;
+  }
+  #about {
+    background: #f7f7f7;
+    margin-bottom: 10px;
+    height: 550px;
+  }
+
+  /* Xây dựng phần Chứng chỉ - Giải thưởng */
+  #certificate {
+    height: 550px;
+  }
+  #certificate img {
+    width: 250px;
+    height: auto;
+    margin: 0px 10px;
+  }
+}
